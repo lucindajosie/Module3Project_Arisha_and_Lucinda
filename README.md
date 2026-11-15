@@ -12,7 +12,7 @@
 * Download the project folders with the green code button
 * Then open INSERTCOMPLETEDFILENAME.ino in Arduino IDE:
 ```
-open arduinowhaleshark.ino
+open INSERTCOMPLETEDFILENAME.ino
 ```
 * Change PLAYER_ID variable to 0 for one user and 1 for the other user
 * Connect your ESP32 to your computer with a usb-c cable
