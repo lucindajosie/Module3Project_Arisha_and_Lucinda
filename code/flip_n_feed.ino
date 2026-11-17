@@ -242,7 +242,7 @@ void updateSliding() {
 }
 //lucinda
 
-//start lucinda
+//lucinda
 void launchHotdog(bool isLeftPlate) {
   int plate = isLeftPlate ? 0 : 1;
 
@@ -361,6 +361,7 @@ void updateGame() {
   }
 }
 
+// Arisha
 // messages
 void handleMessage() {
   if (IS_HOST) {
@@ -381,8 +382,9 @@ void handleMessage() {
     teamFlips = incoming.teamFlips;
   }
 }
+// Arisha
 
-//Arisha 
+// Arisha 
 // drawing
 void drawMan() {
   uint16_t skin = tft.color565(240, 200, 160);
@@ -515,10 +517,10 @@ void drawGame() {
     frame.setTextColor(TFT_WHITE);
     frame.drawString("Press to replay", SCREEN_W / 2, 195, 2);
   }
-// Arisha
 
   frame.pushSprite(0, 0);
 }
+// Arisha
 
 // buttons
 // true only the moment the button goes down, so one press counts once
