@@ -7,8 +7,9 @@ Arisha and Lucinda's Module 3 Project
 
 Using the starter from this module, our goal was to flip it into a game neither player can win alone. Each player controls one plate, and early/late flips pass the hot dog to your partner instead of going to waste. Players figure out how to maximize feeding the man by working together. 
 
-Arisha's Blog Post: 
-Lucinda's Blog Post: 
+Arisha's Blog Post: xxx
+
+Lucinda's Blog Post: xx  
 
 ## How it works
 Two boards talk to each other wirelessly over ESP-NOW.
