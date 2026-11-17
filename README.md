@@ -6,7 +6,9 @@
 * usb-c cable
 * Arduino IDE
 * Arduino c++
-* (NOT DONE)
+* WiFi library
+* TFT_eSPI library
+* esp_now library
 
 ## Setup
 * Download the project folders with the green code button
