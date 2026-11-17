@@ -31,12 +31,12 @@ Both boards run the same sketch. Set (PLAYER_ID)  to choose each board's role.
 * Change `PLAYER_ID` to 1 and upload to the second ESP32, reselecting the port
 
 ## Gameplay
-* Press either button on your board to flip your plate to launch hot dogs into the man's mouth.
-* After dropping three hot dogs, the game is over. Press any button to play again.
-* Tip: Experiment with launching from different parts of the plate to see how that affects the hot dog's trajectory.
+* Press either button on your board to flip your plate to launch hot dogs into the man's mouth
+* After dropping three hot dogs, the game is over. Press any button to play again
+* Tip: Experiment with launching from different parts of the plate to see how that affects the hot dog's trajectory
 
 ## Acknowledgments
 * Starter code provided by Professor Tseng, bccoms3930 module 3
-* AI Acknowledgment: Claude (Anthropic), Claude Opus 5.5
+* AI Acknowledgment: Claude (Anthropic), Claude Opus 5.5, GPT-6
 
-We used Claude to help debug some code and help implementing the physics for the game. We tested, edited, and designed everything as well as made every game rule decisions. More details are in the blog post.
+We used Claude and ChatGPT to help debug some code and help implementing the physics for the game. We tested, edited, and designed everything as well as made every game rule decisions. More details are in the blog post.
