@@ -7,7 +7,7 @@ Arisha and Lucinda's Module 3 Project
 
 Using the starter from this module, our goal was to flip it into a game neither player can win alone. Each player controls one plate, and early/late flips pass the hot dog to your partner instead of going to waste. Players figure out how to maximize feeding the man by working together. 
 
-Arisha's Blog Post: xxx
+Arisha's Blog Post: [Distributed Communication: Flip 'n' Feed](https://glossy-frame-d4e.notion.site/Distributed-Communication-Flip-n-Feed-41b6d5e59d39802a8649d0ab92eb6c80)
 
 Lucinda's Blog Post: https://befitting-schooner-1f3.notion.site/Module-3-Collaborative-Hot-Dog-Eating-Game-3dd13f6a18ba801f915ffcbab9a7486c?pvs=74  
 
