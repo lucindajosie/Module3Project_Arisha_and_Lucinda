@@ -9,7 +9,7 @@ Using the starter from this module, our goal was to flip it into a game neither 
 
 Arisha's Blog Post: xxx
 
-Lucinda's Blog Post: xx  
+Lucinda's Blog Post: https://befitting-schooner-1f3.notion.site/Module-3-Collaborative-Hot-Dog-Eating-Game-3dd13f6a18ba801f915ffcbab9a7486c?pvs=74  
 
 ## How it works
 Two boards talk to each other wirelessly over ESP-NOW.
