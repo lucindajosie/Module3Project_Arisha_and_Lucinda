@@ -42,4 +42,4 @@ Both boards run the same sketch. Set (PLAYER_ID)  to choose each board's role.
 * Starter code provided by Professor Tseng, bccoms3930 module 3
 * AI Acknowledgment: Claude (Anthropic), Claude Opus 5.5, GPT-6
 
-We used Claude and ChatGPT to help debug some code and help implementing the physics for the game. We tested, edited, and designed everything as well as made every game rule decisions. More details are in the blog post.
+We used Claude and ChatGPT to help debug some code and help implementing some aspects of the game. We tested, edited, and designed everything as well as made every game rule decisions. More details about the implementation of AI are in the blog post.
